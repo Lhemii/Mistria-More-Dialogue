@@ -1,72 +1,131 @@
 {
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue1/init": "Oh, hey, [Ari]. What's up?",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue1/init/prompts/0": "Hey, March! You're cute today!",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue1/init/prompts/1": "Hey! Better now, for sure!",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue1/1": "C-cute?",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue1/2": "Well... I mean...",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue1/3": "T-thanks... you're cute too.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue1/4": "Yeah. It's always nice speaking to you, [Ari].",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue1/5": "You're looking very nice today.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue1/init": "Oh, hey, [Ari]. What's up?",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue1/init/prompts/0": "Hey, March! You're cute today!",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue1/init/prompts/1": "Hey! Better now, for sure!",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue1/1": "C-cute?",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue1/2": "Well... I mean...",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue1/3": "T-thanks... you're cute too.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue1/4": "Yeah. It's always nice speaking to you, [Ari].",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue1/5": "You're looking very nice today.",
 
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue2/init": "I remember when you first came.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue2/1": "I really was a jerk, right?",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue2/2": "I know it doesn't really change what happened, but...",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue2/3": "I see now the great pearson you are.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue2/4": "And... I really hope we keep this relation we have.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue2/init": "I remember when you first came.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue2/1": "I really was a jerk, right?",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue2/2": "I know it doesn't really change what happened, but...",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue2/3": "I see now the great pearson you are.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue2/4": "And... I really hope we keep this relation we have.",
 
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue3/init": "[Ari], hey.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue3/1": "I've seen you forging sometimes...",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue3/2": "You're really talented.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue3/3": "If you need any help or tips, I'm always here.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue3/init": "[Ari], hey.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue3/1": "I've seen you forging sometimes...",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue3/2": "You're really talented.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue3/3": "If you need any help or tips, I'm always here.",
 
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/init": "Oh... Hello, [Ari]...",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/init/prompts/0": "March, are you okay?",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/init/prompts/1": "You look kinda sad. Is everything okay?",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/1": "Yeah, it's just...",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/2": "Sometimes, I think I just don't deserve..., you know..., you.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/3": "I was such an idiot when you first arrive, and I treated you bad for so long...",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/4": "And you only treated me well, gave me amazing gifts, and I just refused to accept I liked you in return.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/5": "Honestly, I don't know why you like me after all that.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/5/prompts/0": "Because I knew there was a softie underneath that attitude.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/5/prompts/1": "Because I challenged myself to make you like me, and I hate losing.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/5/prompts/2": "Because you're handsome, of course!",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/6": "Well... I wouldn't say ''softie''...",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/7": "But you really do make me feel comfortable, and I really know I can be just myself with you.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/7/prompts/0": "That sounds very softie for me.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/7/prompts/1": "If that's not softie, it's at least cute.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/8": "... M-maybe.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/9": "hehe. I think I was a tough one to win.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/10": "Still, I wish It had been easy.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/10/prompts/0": "No pain, no gain, right?",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/10/prompts/1": "Me too, but I think It was all worth it.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/11": "heh. I think so.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/12": "It sure was.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/13": "Y-you... really think so?",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/13/prompts/0": "Have you ever looked yourself in the mirror? You're gorgeous!",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/13/prompts/1": "Of course! And I think two beautiful people like you and me really fit.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/14": "Well..., I'm glad you think so.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/15": "I think you're really beautiful too.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/16": "Hehe. We really do, right?",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/17": "Anyways, Thanks for this chat. I really needed this. Thank you.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/18": "You're really special to me, [Ari], and I promise I'll never treat you like before.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/init": "Oh... Hello, [Ari]...",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/init/prompts/0": "March, are you okay?",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/init/prompts/1": "You look kinda sad. Is everything okay?",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/1": "Yeah, it's just...",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/2": "Sometimes, I think I just don't deserve..., you know..., you.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/3": "I was such an idiot when you first arrive, and I treated you bad for so long...",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/4": "And you only treated me well, gave me amazing gifts, and I just refused to accept I liked you in return.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/5": "Honestly, I don't know why you like me after all that.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/5/prompts/0": "Because I knew there was a softie underneath that attitude.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/5/prompts/1": "Because I challenged myself to make you like me, and I hate losing.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/5/prompts/2": "Because you're handsome, of course!",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/6": "Well... I wouldn't say ''softie''...",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/7": "But you really do make me feel comfortable, and I really know I can be just myself with you.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/7/prompts/0": "That sounds very softie for me.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/7/prompts/1": "If that's not softie, it's at least cute.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/8": "... M-maybe.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/9": "hehe. I think I was a tough one to win.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/10": "Still, I wish It had been easy.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/10/prompts/0": "No pain, no gain, right?",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/10/prompts/1": "Me too, but I think It was all worth it.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/11": "heh. I think so.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/12": "It sure was.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/13": "Y-you... really think so?",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/13/prompts/0": "Have you ever looked yourself in the mirror? You're gorgeous!",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/13/prompts/1": "Of course! And I think two beautiful people like you and me really fit.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/14": "Well..., I'm glad you think so.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/15": "I think you're really beautiful too.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/16": "Hehe. We really do, right?",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/17": "Anyways, Thanks for this chat. I really needed this. Thank you.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue4/18": "You're really special to me, [Ari], and I promise I'll never treat you like before.",
 
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue5/init": "Hey, babe, what's up?",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue5/1": "I-I call you 'babe', right?"
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue5/init": "Hey, babe, what's up?",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue5/1": "I-I call you 'babe', right?",
 
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue6/init": "Hey, [Ari]. We should hang out any time.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue6/1": "I... really like spending time with you.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue6/init": "Hey, [Ari]. Your eyes are pretty, you know that?",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue6/1": "I-I mean... If you don't, you should.",
 
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue7/init": "Hey. Just for you to know...",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue7/1": "You can talk to me about anything.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue7/2": "What I want to say is...",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue7/3": "You can always trust me.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue7/init": "Hey. Just for you to know...",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue7/1": "You can talk to me about anything.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue7/2": "What I want to say is...",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue7/3": "You can always trust me.",
 
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue8/init": "Your farm is growing so well.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue8/1": "I'm... proud of you.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue8/init": "Your farm is growing so well.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue8/1": "I'm... proud of you.",
 
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue9/init": "Ever since we started dating, I feel kinda... lonely when I'm in bed at night.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue9/1": "You should... stay overnight any other day.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue9/init": "Ever since we started dating, I feel kinda... lonely when I'm in bed at night.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue9/1": "You should... stay overnight any other day.",
 
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue10/init": "My hair's so smooth today.",
-"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue10/1": "Here, you c-can touch it, if you want."  
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue10/init": "My hair's so smooth today.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/UniqueDialogue10/1": "Here, you c-can touch it, if you want.",
+
+
+
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue1/init": "What's up,[Ari].",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue1/1": "Let's go fishing anyday, just the two of us.",
+
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue2/init": "Hey, babe.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue2/1": "I know I don't say it very often...",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue2/2": "But I really like you",
+
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue3/init": "Hey, [Ari].",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue3/1": "C-can you massage my arm?",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue3/2": "It's hurting a little.",
+
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/init": "'Sup, [Ari].",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue4/1": "Nice outfit.",
+
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue5/init": "I was little sleppy today.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/RandomDialogue5/1": "But seeing you is an insta-coffee.",
+
+
+
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/Spring1/init": "It's nice to feel the spring breeze while I work at the forge.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/Spring1/1": "And I think it's nice for a picnic.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/Spring1/2": "W-we should do it any of these days, right?",
+
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/Spring2/init": "[Ari]. I... asked Celine her prettiest flower.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/Spring2/1": "H-here. It's for you.",
+
+
+
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/SpringFestivalWin1/init": "Congratulations, babe. I knew you would win.",
+
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/SpringFestivalWin2/init": "I bet it was easy for you. I should make a trophy.",
+
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/SpringFestivalWin3/init": "That was sick. You always get to surprise me. I'm proud of you.",
+
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/SpringFestivalMidPlace1/init": "You almost did it. I'm sure next year you're gonna win.",
+
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/SpringFestivalMidPlace2/init": "Hey, you almost beated Celine. That's no small deed.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/SpringFestivalMidPlace2/1": "I'm still proud of you.",
+
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/SpringFestivalMidPlace3/init": "How can Celine collect so many Breaths of Spring? I think you should've won.",
+
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/SpringFestivalNoPlace1/init": "Jeez, not even a medal?",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/SpringFestivalNoPlace1/1": "If you want, I-I can help you next year.",
+
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/SpringFestivalNoPlace2/init": "Don't be sad, [Ari]. Let's enjoy the rest of the festival together.",
+
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/SpringFestivalNoPlace3/init": "Sorry about the competition.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/SpringFestivalNoPlace3/1": "D-do you want  a hug?",
+
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/SpringFestivalRandom1/init": "Honestly, if it weren't for you, this festival would be so boring.",
+
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/SpringFestivalRandom2/init": "There some fancy flowers for sale here.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/SpringFestivalRandom2/1": "Do you want any?",
+
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/SpringFestivalRandom3/init": "If Olric didn't make me stay here at the festival, we could run away for a bit.",
+"Conversations/Mods/Mistria_More_Dialogue/March/Romantic/SpringFestivalRandom3/1": "I-if you want, of course."
 }
